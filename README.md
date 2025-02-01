@@ -12,3 +12,5 @@ pip install brainfuck
 
 ## Como Funciona
 O interpretador processa o texto do código Brainfuck e executa as operações de acordo com a lógica da linguagem, que inclui movimentos de ponteiro e manipulação de valores em células de memória.
+
+![alt text](exemplo.png)
